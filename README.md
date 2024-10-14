@@ -1,12 +1,12 @@
 # ScheduleBot - ВК-бот для вывода расписания
 С его помощью студенты могут легко и быстро получать информацию о своих занятиях, не тратя время на поиск информации на сайте университета или в других источниках.
 ## Оглавление
-- <a href="https://github.com/efane4m/ScheduleBot/edit/main/README.md#описание"> Описание </a>
-- <a href="https://github.com/efane4m/ScheduleBot/edit/main/README.md#языки-программирования"> Языки программирования </a>
+- <a href="https://github.com/efane4m/ScheduleBot/blob/main/README.md#описание"> Описание </a>
+- <a href="https://github.com/efane4m/ScheduleBot/blob/main/README.md#языки-программирования"> Языки программирования </a>
 - <a href="https://github.com/efane4m/ScheduleBot/blob/main/README.md#зависимости-проекта"> Зависимости проекта </a>
-- <a href="https://github.com/efane4m/ScheduleBot/edit/main/README.md#запуск-бота"> Запуск бота </a>
+- <a href="https://github.com/efane4m/ScheduleBot/blob/main/README.md#запуск-бота"> Запуск бота </a>
 - <a href="https://github.com/efane4m/ScheduleBot/blob/main/README.md#как-начать-беседу-с-ботом-в-вк"> Как начать беседу с ботом в вк? </a>
-- <a href="https://github.com/efane4m/ScheduleBot/edit/main/README.md#функционал-бота"> Функционал бота </a>
+- <a href="https://github.com/efane4m/ScheduleBot/blob/main/README.md#функционал-бота"> Функционал бота </a>
 ## Описание
 Этот бот предназначен для студентов РТУ МИРЭА для получения актуального расписания занятий. С его помощью студенты могут легко и быстро получать информацию о своих занятиях. Бот поддерживает различные команды, которые позволяют получать расписание на разные периоды, а также изменять настройки для индивидуальных нужд пользователя. Кроме расписания, бот предоставляет возможность узнать текущую неделю и получать прогноз погоды в Москве.
 ## Языки программирования
