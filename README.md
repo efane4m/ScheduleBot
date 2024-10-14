@@ -24,7 +24,7 @@ vk-api==11.9.9
 pip install -r requirements.txt
 ```
 
-Запустите файл main.py:
+Запустите файл VKBot.py:
 ```
 python VKBot.py
 ```
